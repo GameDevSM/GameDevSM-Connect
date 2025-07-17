@@ -6,5 +6,5 @@
     "strict": true,
     "esModuleInterop": true
   },
-  "include": ["GameDevSM Connect\**/*.ts"]
+  "include": ["GameDevSM Connect/**/*.ts"]
 }
